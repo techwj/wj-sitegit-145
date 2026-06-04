@@ -1,0 +1,88 @@
+# Validation Report - homemade-plant-fertilizer
+
+Generated: 2026-06-04T11:35:51.301486
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Homemade Plant Fertilizer
+- ✓ Article word count OK: Beginner Homemade Plant Fertilizer: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Homemade Plant Fertilizer
+- ✓ Article word count OK: Beginner Homemade Plant Fertilizer Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Homemade Plant Fertilizer
+- ✓ Article word count OK: Beginner Homemade Plant Fertilizer in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Homemade Plant Fertilizer
+- ✓ Article word count OK: Common Mistakes in Beginner Homemade Plant Fertilizer
+- ✓ Article word count OK: Beginner Homemade Plant Fertilizer for Beginners
+- ✓ Article word count OK: Advanced Beginner Homemade Plant Fertilizer Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Homemade Plant Fertilizer
+- ✓ Article word count OK: Advanced Homemade Plant Fertilizer: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Homemade Plant Fertilizer
+- ✓ Article word count OK: Advanced Homemade Plant Fertilizer Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Homemade Plant Fertilizer
+- ✓ Article word count OK: Advanced Homemade Plant Fertilizer in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Homemade Plant Fertilizer
+- ✓ Article word count OK: Common Mistakes in Advanced Homemade Plant Fertilizer
+- ✓ Article word count OK: Advanced Homemade Plant Fertilizer for Beginners
+- ✓ Article word count OK: Advanced Advanced Homemade Plant Fertilizer Techniques
+- ✓ Article word count OK: The Ultimate Guide to Homemade Plant Fertilizer Tips
+- ✓ Article word count OK: Homemade Plant Fertilizer Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Homemade Plant Fertilizer Tips
+- ✓ Article word count OK: Homemade Plant Fertilizer Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Homemade Plant Fertilizer Tips
+- ✓ Article word count OK: Homemade Plant Fertilizer Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Homemade Plant Fertilizer Tips
+- ✓ Article word count OK: Common Mistakes in Homemade Plant Fertilizer Tips
+- ✓ Article word count OK: Homemade Plant Fertilizer Tips for Beginners
+- ✓ Article word count OK: Advanced Homemade Plant Fertilizer Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Homemade Plant Fertilizer History
+- ✓ Article word count OK: Homemade Plant Fertilizer History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Homemade Plant Fertilizer History
+- ✓ Article word count OK: Homemade Plant Fertilizer History Tips and Best Practices
+- ✓ Article word count OK: The History of Homemade Plant Fertilizer History
+- ✓ Article word count OK: Homemade Plant Fertilizer History in 2026: Current Trends
+- ✓ Article word count OK: Future of Homemade Plant Fertilizer History
+- ✓ Article word count OK: Common Mistakes in Homemade Plant Fertilizer History
+- ✓ Article word count OK: Homemade Plant Fertilizer History for Beginners
+- ✓ Article word count OK: Advanced Homemade Plant Fertilizer History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Homemade Plant Fertilizer
+- ✓ Article word count OK: Trending Homemade Plant Fertilizer: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Homemade Plant Fertilizer
+- ✓ Article word count OK: Trending Homemade Plant Fertilizer Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Homemade Plant Fertilizer
+- ✓ Article word count OK: Trending Homemade Plant Fertilizer in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Homemade Plant Fertilizer
+- ✓ Article word count OK: Common Mistakes in Trending Homemade Plant Fertilizer
+- ✓ Article word count OK: Trending Homemade Plant Fertilizer for Beginners
+- ✓ Article word count OK: Advanced Trending Homemade Plant Fertilizer Techniques
+- ✓ Article word count OK: The Ultimate Guide to Homemade Plant Fertilizer Tutorials
+- ✓ Article word count OK: Homemade Plant Fertilizer Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Homemade Plant Fertilizer Tutorials
+- ✓ Article word count OK: Homemade Plant Fertilizer Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Homemade Plant Fertilizer Tutorials
+- ✓ Article word count OK: Homemade Plant Fertilizer Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Homemade Plant Fertilizer Tutorials
+- ✓ Article word count OK: Common Mistakes in Homemade Plant Fertilizer Tutorials
+- ✓ Article word count OK: Homemade Plant Fertilizer Tutorials for Beginners
+- ✓ Article word count OK: Advanced Homemade Plant Fertilizer Tutorials Techniques
+- ✓ Ad configuration validated

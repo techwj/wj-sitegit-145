@@ -1,0 +1,59 @@
+{
+  "siteId": "homemade-plant-fertilizer",
+  "generatedAt": "2026-06-04T11:35:51.301832",
+  "categories": [
+    "beginner-homemade-plant-fertilizer",
+    "advanced-homemade-plant-fertilizer",
+    "tips-homemade-plant-fertilizer",
+    "history-homemade-plant-fertilizer",
+    "trending-homemade-plant-fertilizer",
+    "tutorials-homemade-plant-fertilizer"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-homemade-plant-fertilizer",
+      "category_name": "Beginner Homemade Plant Fertilizer"
+    },
+    {
+      "category_slug": "advanced-homemade-plant-fertilizer",
+      "category_name": "Advanced Homemade Plant Fertilizer"
+    },
+    {
+      "category_slug": "tips-homemade-plant-fertilizer",
+      "category_name": "Homemade Plant Fertilizer Tips"
+    },
+    {
+      "category_slug": "history-homemade-plant-fertilizer",
+      "category_name": "Homemade Plant Fertilizer History"
+    },
+    {
+      "category_slug": "trending-homemade-plant-fertilizer",
+      "category_name": "Trending Homemade Plant Fertilizer"
+    },
+    {
+      "category_slug": "tutorials-homemade-plant-fertilizer",
+      "category_name": "Homemade Plant Fertilizer Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "homemade-plant-fertilizer",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Homemade Plant Fertilizer Central",
+    "articles_per_row": 3
+  }
+}
